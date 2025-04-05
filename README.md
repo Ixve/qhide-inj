@@ -1,5 +1,6 @@
 # Usage
-Download pre-compiled exe, put it next to skeet.dll, run it
+Download pre-compiled exe and skeet.dll, put it next to each other, run exe
+**If your CPU does not support AVX2+, download the skeet-SSE.dll and rename it to skeet.dll**
 
 # Compilation
 This was compiled using mingw msys32 using the following command:
